@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@hoangcung1804npm/temporibus-ipsam-debitis",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/hoangcung1804npm/temporibus-ipsam-debitis.git"
   },
   "dependencies": {
+    "@hoangcung1804npm/facilis-animi-quisquam": "^1.0.0",
+    "@hoangcung1804npm/in-natus-quis": "^1.0.0",
+    "@hoangcung1804npm/possimus-mollitia-qui": "^1.0.0",
+    "@omegion1npm/facere-ullam-excepturi-facilis": "^1.0.0"
   }
 }
